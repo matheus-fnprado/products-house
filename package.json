@@ -1,7 +1,7 @@
 {
   "name": "products-house",
   "version": "1.0.0",
-  "description": "",
+  "description": "- npm init -y\r  - npm install express ejs uuid method-override\r  - npm i nodemon -D\r  - npm i\r  - nodemon",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
